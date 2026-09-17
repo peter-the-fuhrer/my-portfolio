@@ -192,7 +192,7 @@ function App() {
               </div>
               <p className="skill-desc">Creating responsive and interactive user interfaces.</p>
               <div className="skill-tags">
-                <span className="tag">React</span>
+                <span className="tag">React/Next.js</span>
                 <span className="tag">Vue</span>
                 <span className="tag">TailwindCSS</span>
                 <span className="tag">TS</span>
